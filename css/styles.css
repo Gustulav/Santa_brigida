@@ -49,3 +49,15 @@ body {
   background-color: bisque;
   width: 80%;
 }
+.info .article{
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+
+
+}
+.info .article .section{
+  margin: 25px 25px 25px 0;
+  background-color: greenyellow;
+  border-radius: 25px;
+}
